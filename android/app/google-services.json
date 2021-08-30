@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "988227943294",
+    "project_id": "flutter-social-media-7fb3e",
+    "storage_bucket": "flutter-social-media-7fb3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988227943294:android:7a8bf3497ed247ae11512f",
+        "android_client_info": {
+          "package_name": "com.trong.socialMedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988227943294-09eg2thhq537oohid3mu5hfrgfll9fit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trong.socialMedia",
+            "certificate_hash": "69779a567f870959978b06d8a02bb45fe9cd5c93"
+          }
+        },
+        {
+          "client_id": "988227943294-kvhksokjeke7ivamq0l58ai86u2seovi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDff8CVflkqcBcnhRdzhEOdueDWZtTm7gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988227943294-kvhksokjeke7ivamq0l58ai86u2seovi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988227943294-92oictmlilvee9i6meco9cfa9lt13saf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trong.socialMedia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
